@@ -9,7 +9,7 @@
   const money = v => v == null ? "–" : v >= 1e6 ? "$" + (v / 1e6).toFixed(2) + "M" : "$" + Math.round(v / 1000) + "k";
   const fmt = v => v == null ? "–" : Math.round(v).toLocaleString("en-US");
   const med = a => { a = a.filter(v => v != null).sort((x, y) => x - y); if (!a.length) return null; const m = a.length >> 1; return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2; };
-  const DEF = { types: ["house", "condo", "townhome"], pmax: 600000, pmin: 0, bd: 2, ba: 2, sf: 1000, ac: 0, er: null };
+  const DEF = { types: ["house", "condo", "townhome"], pmax: 650000, pmin: 0, bd: 2, ba: 2, sf: 1000, ac: 0, er: null };  // MA: $650k default to match Bill's MA home cap (TN page uses $600k)
   const TCOL = { house: "#2b6cb0", condo: "#8e44ad", townhome: "#e67e22" }, TNAME = { house: "House", condo: "Condo", townhome: "Townhome" };
   const MET = { n: ["Homes that match", v => fmt(v), 1], mp: ["Median price", money, 0], ppsf: ["Median $ / sq ft", v => v == null ? "–" : "$" + Math.round(v), 0], er: ["Median ER drive", v => v == null ? "–" : Math.round(v) + " min", 0], cs: ["Condo + townhome share", v => v == null ? "–" : Math.round(v * 100) + "%", 1] };
   const RAMP = ["#f7fbff", "#c6dbef", "#6baed6", "#2171b5", "#08306b"];
