@@ -3,6 +3,7 @@
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
 ## 2026-10-03
+- 10:50 ET: State switcher: add Maine (new Maine Explorer); Compare areas shows n/a for a missing school result
 - 07:50 ET: Tapping the Boston town block now opens the Boston neighborhood map (city.html#boston) directly; phone Back and the page's '‹ MA map' link return to the map at the same view, and the Boston page links to the Boston town card. Other towns keep their card; #county=Boston links and search still open the card. Shared app.js: generic per-state ST.cityPage config (Kentucky has none; Tennessee: Davidson -> Nashville, Shelby -> Memphis).
 
 ## 2026-10-02
