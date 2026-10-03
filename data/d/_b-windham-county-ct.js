@@ -1,0 +1,1 @@
+KYXD("_b-windham-county-ct",{"hospital":{"bct-day-kimball-hospital-putnam":{"cms_id":"070003","addr":"320 Pomfret Street","bst":"CT","bmi":8.2,"src":"CMS Hospital General Information (Care Compare); location: OpenStreetMap / Nominatim address match","bco":"Windham County, CT"}}});

@@ -1,0 +1,1 @@
+KYXD("_b-tolland-county-ct",{"hospital":{"bct-johnson-memorial-hospital-stafford-springs":{"cms_id":"070008","addr":"201 Chestnut Hill Road","bst":"CT","bmi":3.7,"src":"CMS Hospital General Information (Care Compare); location: OpenStreetMap / Nominatim address match","bco":"Tolland County, CT"}}});

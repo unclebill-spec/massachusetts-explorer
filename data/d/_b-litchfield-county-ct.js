@@ -1,0 +1,1 @@
+KYXD("_b-litchfield-county-ct",{"hospital":{"bct-sharon-hospital-sharon":{"cms_id":"070004","addr":"50 Hospital Hill Road","bst":"CT","bmi":11.7,"src":"CMS Hospital General Information (Care Compare); location: OpenStreetMap / Nominatim address match","bco":"Litchfield County, CT"}}});
