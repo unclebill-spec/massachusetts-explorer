@@ -3,6 +3,7 @@
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
 ## 2026-10-03
+- 14:06 ET: Add ski areas and notable mountain peaks layers: ski/peak icons, cards with trails, lifts, vertical, snowfall, season, ticket and pass prices (season + source labeled), discounts, special days; peaks with elevation, prominence, activities, estimated summit weather; Ski and Peaks solo buttons, Map key, zoom tiers, share links #ski= / #peak=
 - 12:51 ET: State switcher: add Vermont (KY / MA / ME / TN / VT); shared app code with the per-state caps/cabin config (no change for this state)
 - 10:50 ET: State switcher: add Maine (new Maine Explorer); Compare areas shows n/a for a missing school result
 - 07:50 ET: Tapping the Boston town block now opens the Boston neighborhood map (city.html#boston) directly; phone Back and the page's '‹ MA map' link return to the map at the same view, and the Boston page links to the Boston town card. Other towns keep their card; #county=Boston links and search still open the card. Shared app.js: generic per-state ST.cityPage config (Kentucky has none; Tennessee: Davidson -> Nashville, Shelby -> Memphis).

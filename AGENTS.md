@@ -54,3 +54,8 @@ Progress log: `/workspace/massachusetts/STATUS.md` (updated often; earlier worke
 - Never commit secrets; secscan runs before every push. Pull before pushing. Descriptive commits. Keep CHANGELOG.md, AGENTS.md, STATUS.md current.
 - Load time ~1 s on a throttled phone; lazy-load anything not needed for the first view.
 - Same icon and zoom rules as KY/TN (see `/workspace/kentucky/explorer/AGENTS.md`).
+
+## Ski areas + notable peaks (Oct 3, 2026)
+23 ski areas and 28 peaks, from explorer/mtn.json and explorer/img/mtn/. These are shared app files from KY; full notes are in /workspace/kentucky/explorer/AGENTS.md.
+- build.py has the mtn_build hook (`mtn_build.add(data)` before `write_split`, then `mtn_build.write_detail(OUT)`). Keep it if build.py is regenerated, or rerun `/workspace/mtn/scripts/hook_build.py /workspace/massachusetts`.
+- Rebuild the data with `/workspace/mtn/scripts/make_state.py MA`. Test with `/workspace/mtn/test_mtn.py BASE TAG SKI_ID PEAK_ID`.
