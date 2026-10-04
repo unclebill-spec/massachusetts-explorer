@@ -2,6 +2,9 @@
 
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
+## 2026-10-04
+- 06:18 ET: State switcher: add Utah (9 maps)
+
 ## 2026-10-03
 - 20:58 ET: State switcher: add Idaho (8 maps)
 - 18:24 ET: State switcher: Montana and Wyoming added
