@@ -3,6 +3,7 @@
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
 ## 2026-10-04
+- 15:21 ET: Caves and waterfalls on the property: flying-bat and waterfall pins + groups, 'Cave' and 'Falls' buttons, Map key, card with the listing's own words, acres, price and Nearby
 - 10:53 ET: 50+ acre lots under $250k (land or home): small black star pins + groups, '50+ ac' button, Map key row, card with acres, $/acre, dwelling and Nearby; border listings too
 - 08:05 ET: State switcher: shrinks and scrolls sideways on narrow phones (10 maps)
 - 07:35 ET: State switcher: add New Hampshire (10 maps); border items now come from the New Hampshire map (NH homes and RN jobs at this map's caps)
