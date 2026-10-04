@@ -3,6 +3,7 @@
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
 ## 2026-10-04
+- 08:05 ET: State switcher: shrinks and scrolls sideways on narrow phones (10 maps)
 - 07:35 ET: State switcher: add New Hampshire (10 maps); border items now come from the New Hampshire map (NH homes and RN jobs at this map's caps)
 - 06:18 ET: State switcher: add Utah (9 maps)
 
