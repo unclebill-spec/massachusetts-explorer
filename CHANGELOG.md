@@ -2,6 +2,9 @@
 
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
+## 2026-10-07
+- 17:12 ET: Listings refresh: +11 new, -5 sold/off-market (2 sold), 21 price drops (27 now pending/contingent, labeled); 50+ ac 1, waterfalls 2; bargains refreshed (3 in, 3 out); 2229 perm RN jobs (2026-10-07)
+
 ## 2026-10-05
 - 23:04 ET: Add North Carolina to the state switcher (new North Carolina Explorer); shared Anna code: per-state wording + estimated-pay labels
 - 21:06 ET: Permanent RN jobs: cardiac cath lab postings are now hidden like the other cath lab jobs. 11 jobs (Lahey, Signature Brockton, BMC South, UMass Memorial, Milford Regional, Charlton Memorial, BID Plymouth) were filed under step-down because the word 'cardiac' matched before 'cath'; any job whose title or unit names the cath lab is now Cath lab / IR. Cath recovery, cath-lab step-down and holding jobs stay in.
