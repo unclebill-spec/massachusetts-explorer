@@ -2,6 +2,9 @@
 
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
+## 2026-10-14
+- 07:55 ET: Listings refresh r5: +0 new, -5 sold/off-market, 9 price drops, 10 price changes; bigland/cavefalls/perm refreshed (r5-2026-10-13)
+
 ## 2026-10-12
 - 21:21 ET: Listings refresh r4: +0 new, -0 sold/off-market, 9 price drops, 9 price changes; bigland/cavefalls/perm refreshed (r4-2026-10-12)
 
