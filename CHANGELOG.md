@@ -2,6 +2,9 @@
 
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
+## 2026-11-13
+- 16:15 ET: Add Houses and Towns layers: 7 no-land homes (4bd/2ba, under $450k, within 15 min of a hospital) and 9 townhomes, condos, and apartments (3bd/2ba, same price and drive rules). Existing 10-minute near-hospital layer is unchanged.
+
 ## 2026-11-12
 - 08:22 ET: Listings refresh r23: +0 new, -0 sold/off-market, 0 price drops, 0 price changes; bigland/cavefalls/perm refreshed (r23-2026-11-12)
 
