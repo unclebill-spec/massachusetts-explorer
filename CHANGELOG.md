@@ -2,6 +2,9 @@
 
 Dated entries of what changed (newest first). Each publish with a message adds a line here.
 
+## 2026-11-16
+- 11:13 ET: State switcher: add Nebraska, South Dakota, North Dakota
+
 ## 2026-11-14
 - 15:53 ET: Listings refresh r24: +0 new, -0 sold/off-market, 0 price drops, 0 price changes; bigland/cavefalls/perm refreshed (r24-2026-11-14)
 
